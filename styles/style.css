@@ -1,0 +1,25 @@
+body {
+    background: rgb(207, 103, 0);
+    background: linear-gradient(90deg, rgba(207, 103, 0, 1) 0%, rgba(254, 255, 144, 1) 53%, rgba(252, 69, 69, 1) 100%);
+    background-repeat: no-repeat;
+}
+
+.card {
+    border: none;
+    background: rgb(34, 193, 195);
+    background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(63, 182, 204, 0.7233115468409586) 25%, rgba(148, 147, 231, 1) 100%);
+    border: 1px solid black;
+    box-shadow: 5px 5px 1px rgb(0, 0, 0);
+
+}
+
+.font {
+    font-family: 'Playfair Display', serif;
+    font-family: 'Righteous', cursive;
+}
+
+h5 .font {
+    font-weight: 400;
+}
+
+.btn-atrapar {}
